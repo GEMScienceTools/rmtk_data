@@ -1,0 +1,7 @@
+Type,strain dependent,,,,
+Damage States,Criteria,Material,distribution,mean,cov
+LS1,Sdy,steel,,,
+LS2,strain,concrete,lognormal,0.0045,0.45
+LS2,strain,concrete,lognormal,0.0075,0.45
+LS3,strain,steel,lognormal,0.0125,0.45
+LS3,strain,steel,lognormal,0.0225,0.45
