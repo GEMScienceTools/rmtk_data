@@ -1,1 +1,6 @@
-Type,interstorey drift,,,,Damage States,distribution,Mean,Cov,,Slight,normal,0.005,0.05,0.005,0.05Moderate,normal,0.01,0.05,0.01,0.05Extensive,normal,0.02,0.05,0.02,0.05Collapse,normal,0.05,0.05,0.05,0.05
+Type,interstorey drift,,,,
+Damage States,distribution,median,dispersion,,
+Slight,normal,0.005,0.05,0.005,0.05
+Moderate,normal,0.01,0.05,0.01,0.05
+Extensive,normal,0.02,0.05,0.02,0.05
+Collapse,normal,0.05,0.05,0.05,0.05
