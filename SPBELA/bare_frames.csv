@@ -1,0 +1,12 @@
+Structure type,bare frame,,,,
+ductility,non-ductile,,,,
+number of storeys,3,,,,
+steel modulus,lognormal,210000,0.01,0,inf
+steel yield strength,normal,371.33,0.24,0,inf
+concrete strength,normal,20,0.05,0,inf
+steel bar diameter,discrete,0.01,1,0,inf
+ground floor height,discrete,2.8 3.1 3.2 3.4 3.6 ,0.46 0.15 0.25 0.12 0.02,0,inf
+regular floor height,lognormal,2.84,0.08,0,inf
+column depth,lognormal,0.45,0.12,0.3,0.6
+beam length,gamma,3.37,0.38,0,inf
+beam depth,lognormal,0.6,0.16,0.4,0.8
