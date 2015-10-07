@@ -1,6 +1,4 @@
 Type,capacity curve dependent,,,
 Damage States,Criteria,distribution,Mean,Cov
-Slight,Sdy,normal,0.5,0
-Moderate,3 Sdy 1 Sdu,normal,,0
-Extensive,1 Sdy 1 Sdu,normal,,0
+Extensive,fraction Sdy,normal,4,0
 Collapse,Sdu,normal,,0

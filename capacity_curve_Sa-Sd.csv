@@ -1,0 +1,15 @@
+Vb-droof,FALSE
+Vb-dfloor,FALSE
+Sd-Sa,TRUE
+Idealised,TRUE
+Periods [s],0.320
+Ground heights [m],3.00
+Regular heights [m],3.00
+Gamma participation factors,1.275
+Effective modal masses,232.62
+Number storeys,4
+Weights,1
+Sdy,0.024
+Say,0.400
+Sa1 [kN],0.00,0.40,0.45,0.37,0.34
+Sd1,0.000000,0.023542,0.056618,0.090000,0.310000
