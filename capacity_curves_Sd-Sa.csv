@@ -1,13 +1,13 @@
-Vb-droof,FALSE,,,,
-Vb-dfloor,FALSE,,,,
-Sd-Sa,TRUE,,,,
-Idealised,TRUE,,,,
-Periods [s],0.32,,,,
-Heights [m],12,,,,
-Gamma participation factors,1.275,,,,
-Effective modal masses,232.62,,,,
-Number storeys,4,,,,
-Sdy [m],0.024,,,,
-Say [g],0.4,,,,
-Sa1 [g],0,0.4,0.45,0.37,0.34
-Sd1 [m],0,0.023542,0.056618,0.09,0.31
+Vb-droof,FALSE
+Vb-dfloor,FALSE
+Sd-Sa,TRUE
+Idealised,TRUE
+Periods [s],0.448
+Effective modal masses,233.55
+Gamma participation factors,1.264
+Effective modal masses,233.55
+Number storeys,4
+Sdy,0.025
+Say,0.260
+Sa1 [kN],0.00,0.26,0.32,0.28,0.25
+Sd1,0.000000,0.024823,0.060976,0.090000,0.250000
